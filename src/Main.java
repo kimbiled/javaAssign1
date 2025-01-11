@@ -16,6 +16,14 @@ public class Main {
 
         library.displayLibraryInfo();
 
+        // Search for a book by title
+        library.searchBooksByTitle("1984");
+
+        // Sort books by title and display them
+        library.sortBooksByTitle();
+        library.displayLibraryInfo();
+
+        // Check equality
         if (book1.equals(book2)) {
             System.out.println("The books are identical.");
         } else {
