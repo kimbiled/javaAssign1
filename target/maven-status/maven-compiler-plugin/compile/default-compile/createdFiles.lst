@@ -1,0 +1,11 @@
+com/example/repositories/LibraryMemberDAO.class
+com/example/controllers/BookController.class
+com/example/repositories/BookRepository.class
+com/example/models/Person.class
+com/example/repositories/BookDAO.class
+com/example/controllers/LibraryMemberController.class
+com/example/models/Book.class
+com/example/models/Library.class
+com/example/LibraryApplication.class
+com/example/models/LibraryMember.class
+com/example/repositories/LibraryMemberRepository.class
